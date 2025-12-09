@@ -1,0 +1,6 @@
+com\israt\jsp_maven\repository\DatabaseConnection.class
+com\israt\jsp_maven\controller\StuServlet.class
+com\israt\jsp_maven\JakartaRestConfiguration.class
+com\israt\jsp_maven\entity\Student.class
+com\israt\jsp_maven\resources\JakartaEE10Resource.class
+com\israt\jsp_maven\service\StuService.class

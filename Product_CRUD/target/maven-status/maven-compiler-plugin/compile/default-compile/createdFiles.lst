@@ -1,0 +1,6 @@
+com\israt\product_crud\JakartaRestConfiguration.class
+com\israt\product_crud\repository\DatabaseConnection.class
+com\israt\product_crud\entity\Product.class
+com\israt\product_crud\resources\JakartaEE10Resource.class
+com\israt\product_crud\service\ProductService.class
+com\israt\product_crud\controller\ProductServlet.class
