@@ -1,0 +1,6 @@
+com\abc\jsp_crud\repository\DBUtil.class
+com\abc\jsp_crud\service\EmployeeDAO.class
+com\abc\jsp_crud\resources\JakartaEE10Resource.class
+com\abc\jsp_crud\controller\EmployeeServlet.class
+com\abc\jsp_crud\entity\Employee.class
+com\abc\jsp_crud\JakartaRestConfiguration.class
