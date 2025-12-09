@@ -1,0 +1,6 @@
+com\abc\employee_system\repository\DatabaseConnection.class
+com\abc\employee_system\controller\EmployeeServlet.class
+com\abc\employee_system\JakartaRestConfiguration.class
+com\abc\employee_system\service\EmployeeService.class
+com\abc\employee_system\entity\Employees.class
+com\abc\employee_system\resources\JakartaEE10Resource.class

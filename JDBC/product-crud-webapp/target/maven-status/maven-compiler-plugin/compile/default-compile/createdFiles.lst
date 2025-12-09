@@ -1,0 +1,5 @@
+com\example\product\DBConnection.class
+com\example\product\repository\ProductRepository.class
+com\example\product\service\ProductService.class
+com\example\product\controller\ProductServlet.class
+com\example\product\entity\Product.class
